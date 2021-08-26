@@ -1,0 +1,29 @@
+class AppRoutes {
+  static const initialRoute = "/";
+  static const signupRoute = "/signup";
+  static const loginRoute = "/login";
+  static const homeRoute = "/home";
+  static const termsAndConditionsRoute = "/terms-conditions";
+  static const privacyPolicyRoute = "/privacy-policy";
+  static const disclaimerRoute = "/disclaimer";
+  static const settingsRoute = "/settings";
+  static const questionsRoute = "/questions";
+  static const videoSamplesForApprovalRoute = "/video-sample-for-approval";
+  static const videoNotApprovedRoute = "/video-not-approved";
+  static const deleteVideoRoute = "/delete-video";
+  static const deleteVideoSuccessRoute = "/delete-video-success";
+  static const captureVideoRoute = "/capture-video";
+  static const previewCaptureVideoRoute = "/preview-capture-video";
+  static const uploadVideoRoute = "/upload-video";
+  static const shareVideoRoute = "/share-video";
+  static const shareContactsVideoRoute = "/share-contacts-video";
+  static const currentUserProfileRoute = "/current-user-profile";
+  static const otherUserProfileRoute = "/other-user-profile";
+  static const shareInbox = "/share-inbox";
+  static const comment = "/comment";
+  static const fullScreenVideo = "/full-screen-video";
+  static const adEngine = "/ad-engine";
+  static const followers = "/followers";
+  static const followings = "/followings";
+  static const editProfile = "/edit-profile";
+}

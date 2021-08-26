@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653127762793",
+    "project_id": "torahshare-8e992",
+    "storage_bucket": "torahshare-8e992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653127762793:android:73c32e2dbac95465f373f8",
+        "android_client_info": {
+          "package_name": "app.torahshare.torah_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653127762793-4tfc3gjsb5fkb3a842av4g6mt656n2p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.torahshare.torah_share",
+            "certificate_hash": "df6ec625d279c80a8e06ee2c6bd9680b0665fee5"
+          }
+        },
+        {
+          "client_id": "653127762793-9aakt07hjjpb65inovk2ohunf1dubmqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Cuq9wQkXAWV0Jwg-l3HO4quS5prFzyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653127762793-9aakt07hjjpb65inovk2ohunf1dubmqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
